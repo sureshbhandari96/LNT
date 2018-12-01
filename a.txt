@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 34C3-3355
+
+ Directory of C:\Users\vshadmin\Desktop\ABCDEFG
+
+01-12-2018  13:03    <DIR>          .s
+01-12-2018  13:03    <DIR>          ..
+01-12-2018  13:03                 0 a.txt
+01-12-2018  13:03                 0 aa.txt
+01-12-2018  13:02    <DIR>          ab.txt
+               2 File(s)              0 bytes
+               3 Dir(s)  206,119,948,288 bytes free
